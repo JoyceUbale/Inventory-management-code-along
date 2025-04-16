@@ -85,6 +85,7 @@ public:
 // CheckingAccount class
 class CheckingAccount : public Account
 {
+    
 private:
     double transactionFee;
 
